@@ -1,0 +1,11 @@
+[app]
+name = "SIP"
+menu = "Badge"
+
+[entry]
+class = "App"
+
+[metadata]
+author = "D_K"
+license = "MIT"
+url = "https://github.com/bennofs/flow3r-apps"
