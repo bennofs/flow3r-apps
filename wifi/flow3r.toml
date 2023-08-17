@@ -1,0 +1,11 @@
+[app]
+name = "WIFI Camp2023"
+menu = "Badge"
+
+[entry]
+class = "App"
+
+[metadata]
+author = "bennofs"
+license = "MIT"
+url = "https://github.com/bennofs/flow3r-apps"
